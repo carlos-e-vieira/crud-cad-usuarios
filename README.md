@@ -1,2 +1,2 @@
 # crud-cad-usuarios
-CRUD simples com PHP e PDO - Aplicação Lista, Cadastrar, Deleta e Atualiza os dados dos usuários do banco de dados em MySQL
+CRUD simples com PHP e PDO - Aplicação para Listar, Cadastrar, Deleta e Atualizar os dados dos usuários do banco de dados em MySQL
